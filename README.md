@@ -13,6 +13,10 @@ so分析处理步骤：
 3. 判断是否有 BR/BLR混淆，有则先去BR/BLR混淆；
 4. 如果有平坦化混淆，则使用d810去混淆，或者自实现脚本辅助去混淆。
 
+反混淆脚本思路详解：
+
+https://lpr8dxxmqn.feishu.cn/docx/K1QWdV0ydocOIPx1HgHcB3ednMf?from=from_copylink
+
 
 
 ### IDA
